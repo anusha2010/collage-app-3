@@ -1,0 +1,40 @@
+#fotter{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#camera{
+    width:360px;
+    height: 250px;
+    border:10px solid grey;
+}
+
+#textbox{
+    width: 300px; ;
+}
+
+body{
+    background-color:cornsilk;
+    text-align: center;
+}
+
+#result1{
+    border-radius:5px;
+    padding: 10px;
+    border-style: dotted;
+    border-color: rgb(239, 249, 39);
+}
+
+#result2{
+    border-radius:5px;
+    padding: 10px;
+    border-style: dotted;
+    border-color: rgb(239, 249, 39);
+}
+#result3{
+    border-radius:5px;
+    padding: 10px;
+    border-style: dotted;
+    border-color: rgb(239, 249, 39);
+}
